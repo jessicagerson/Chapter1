@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Simple
+comment0.text=\r\n1.\ \ simple\ (Why\ do\ you\ even\ have\ to\ change\ the\ name\ of\ the\ file\ in\ this\ case?)\r\n\ \ \ \ Answer\:\ This\ will\ compile\ but\ class\ names\ should\ start\ with\ an\ upper\ case\ letter.\r\n2.\ \ SimpleProgram\r\n\ \ \ \ Answer\:\ This\ compiles.\r\n3.\ \ 1Simple\r\n\ \ \ \ Answer\:\ This\ does\ not\ compile\ because\ it\ starts\ with\ a\ number.\r\n4.\ \ _Simple_\r\n\ \ \ \ Answer\:\ This\ compiles.\r\n5.\ \ *Simple*\r\n\ \ \ \ Answer\:\ This\ does\ not\ compile.\r\n6.\ \ $123_45\r\n\ \ \ \ Answer\:\ This\ Compiles\r\n7.\ \ Simple\!\r\n\ \ \ \ Answer\:\ This\ does\ not\ compile\ because\ of\ the\ \!\ \=\ synthax\ error\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
